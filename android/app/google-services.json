@@ -1,0 +1,41 @@
+{
+    "project_info": {
+      "project_number": "966618223758",
+      "firebase_url": "https://bookmanager-15381.firebaseio.com",
+      "project_id": "bookmanager-15381",
+      "storage_bucket": "bookmanager-15381.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:966618223758:android:d7c4bd47c185b02558a5df",
+          "android_client_info": {
+            "package_name": "com.bookmanager"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "966618223758-avde9kle9v4q2r680fudos595kofqlri.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyAcuCBbl0vzLjXqPUOdX8g20q2aVYHOaPs"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "966618223758-avde9kle9v4q2r680fudos595kofqlri.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
+  
