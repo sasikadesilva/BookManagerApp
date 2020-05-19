@@ -16,8 +16,14 @@
         }
         #endif
 
+3) run android
+    react-native run-android
+    
+4) run ion
+    react-native run-ios
 
-3)to generate apk 
+5)to generate apk 
+  create app key and
  
 this need only first time :  
 
